@@ -54,7 +54,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AryanKoundal)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKoundal&show_icons=true&theme=transparent)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKoundal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs 2](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :writing_hand: Blog Posts :
